@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(134, 209, 178);
+}
+h1 {
+  color: rgb(150, 23, 76);
+  text-align: center;
+  margin-top: 10px;
+}
+h2 {
+  color: rgb(226, 97, 198);
+}
+.btn-outline-success {
+  background-color: rgb(150, 23, 76);
+}
